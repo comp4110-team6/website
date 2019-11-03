@@ -1,0 +1,141 @@
+body {
+  background-color: #f3f5e8;
+}
+
+details > *:not(summary), details > details > summary {
+    padding-left: 18px;
+}
+
+details > details > *:not(summary) {
+    padding-left: 36px;
+}
+
+/* mobile devices */
+@media screen {
+  .wrapper {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+  
+    display: grid;
+  }
+}
+
+/* less than half tab */
+@media screen and (min-width: 480px) {
+  .wrapper {
+    margin: 0 auto;
+    height: 100%;
+    width: 100%;
+  
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  }
+  html {
+    overflow: scroll;
+  }
+}
+
+/* greater than half tab */
+@media screen and (min-width: 960px) {
+  .wrapper {
+    margin: 0 auto;
+    height: 100%;
+    width: 960px;
+  
+    display: grid;
+    grid-template-columns: 320px 640px;
+  }
+  html {
+    overflow: scroll;
+  }
+}
+
+.card {
+    display: grid;
+    grid-gap: 10px;
+}
+.card_left {
+    grid-template-columns: 200px 400px;
+}
+.card_right {
+    grid-template-columns: 400px 200px;
+}
+
+.sidebar {
+  padding: 20px;
+}
+.content {
+  padding: 15px;
+}
+
+.color-white {
+  color: #f4e6c9;
+}
+.color-white::selection {
+  background-color: #f4e6c9;
+  color: #807589;
+}
+.color-yellow {
+  color: #d5c48e;
+}
+.color-purple1 {
+  color: #807589;
+}
+.color-purple1::selection {
+  background-color: #807589;
+  color: #f4e6c9;
+}
+.color-purple2 {
+  color: #4c3248;
+}
+.text {
+  display: block;
+  font-weight: normal;
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  text-decoration: none;
+}
+.text-heading {
+  font-size: 72px;
+  line-height: 84px;
+}
+.text-title {
+  font-size: 36px;
+  line-height: 48px;
+}
+.text-subtitle {
+  font-size: 16px;
+  line-height: 18px;
+}
+.text-body {
+  font-size: 12px;
+  line-height: 14px;
+}
+.font-play {
+  font-family: 'Playfair Display';
+}
+.font-robo {
+  font-family: 'Roboto Mono';
+}
+.font-mate {
+  font-family: 'Mate';
+}
+.text-underline {
+  text-decoration: underline;
+}
+.text-no-underline {
+  text-decoration: none;
+}
+
+a.color-white:hover {
+  color: #4c3248;
+}
+a.color-purple1:hover {
+  color: #d5c48e;
+}
+
+img {
+  display: block;
+}
