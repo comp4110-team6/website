@@ -64,7 +64,7 @@
   <p class="text text-subtitle font-robo color-purple1">Specification</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="/documents/srs_v1.pdf">srs</a>
+    <a class="text-underline color-purple1" href="documents/srs_v1.pdf">srs</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
@@ -74,7 +74,7 @@
   <p class="text text-subtitle font-robo color-purple1">Prototype</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="/documents/prototype_v1.pdf">prototype</a>
+    <a class="text-underline color-purple1" href="documents/prototype_v1.pdf">prototype</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
@@ -84,7 +84,7 @@
   <p class="text text-subtitle font-robo color-purple1">Presentation slideshow</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="/documents/presentation_v1.pdf">presentation</a>
+    <a class="text-underline color-purple1" href="documents/presentation_v1.pdf">presentation</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
@@ -94,7 +94,7 @@
   <p class="text text-subtitle font-robo color-purple1">Demonstration video</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="/documents/demonstration_v1.pdf">demonstration</a>
+    <a class="text-underline color-purple1" href="documents/demonstration_v1.pdf">demonstration</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
