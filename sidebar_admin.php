@@ -5,7 +5,7 @@
   <div style="height: 10px;"></div>
   <details class="text font-robo color-white">
     <summary><a class="text-body text-no-underline color-white" href="roster.php">Roster</a></summary>
-    <a class="text-body text-no-underline color-white" href="roster.php#dallen">DeOndre Allen</a><br>
+    <a class="text-body text-no-underline color-white" href="roster.php#dallen">De'Ondre Allen</a><br>
     <a class="text-body text-no-underline color-white" href="roster.php#bbean">Bryan Bean</a><br>
     <a class="text-body text-no-underline color-white" href="roster.php#nmezher">Noah Mezher</a><br>
     <a class="text-body text-no-underline color-white" href="roster.php#jsummers">Jack Summers</a><br>
