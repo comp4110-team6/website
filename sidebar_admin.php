@@ -43,7 +43,7 @@
   </p>
   <div style="height: 20px;"></div>
   <p class="text text-body font-robo color-white">
-    Created by DeOndre Allen, Bryan Bean, Noah Mezher, Jack Summers, and Robert Terravecchia<br><br>
+    Created by De'Ondre Allen, Bryan Bean, Noah Mezher, Jack Summers, and Robert Terravecchia<br><br>
     Copyright 2019<br><br>
     All rights reserved
   </p>
