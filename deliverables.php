@@ -14,36 +14,43 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div name="project_proposal">
-  <p class="text text-subtitle font-robo color-purple1">Project Proposal</p>
+<div name="proposal">
+  <p class="text text-subtitle font-robo color-purple1">Project proposal</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    Our proposal for this project<br><br>
-    <a class="text-underline color-purple1" href="/documents/proposal_revised.pdf">2019-11-4_project_proposal</a>
-    <a class="text-underline color-purple1" href="/documents/proposal_with_notes.pdf">2019-10-30_project_proposal</a>
-    <a class="text-underline color-purple1" href="/documents/proposal.pdf">2019-10-24_project_proposal</a>
+    <a class="text-underline color-purple1" href="/documents/proposal_v1.pdf">proposal_v1</a>, 
+    <a class="text-underline color-purple1" href="/documents/proposal_v2.pdf">proposal_v2</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div name="iniital_questions">
+<div name="questions">
   <p class="text text-subtitle font-robo color-purple1">Initial questions</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    Our initial questions for the project<br><br>
-    <a class="text-underline color-purple1" href="/documents/initial_quetions.pdf">2019-10-24_initial_questions</a>
+    <a class="text-underline color-purple1" href="/documents/questions_v1.pdf">questions_v1</a>, 
+    <a class="text-underline color-purple1" href="/documents/questions_v2.pdf">questions_v2</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div name="initial_requirements">
+<div name="requirements">
   <p class="text text-subtitle font-robo color-purple1">Initial requirements</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    Our initial requirements for the project<br><br>
-    <a class="text-underline color-purple1" href="/documents/initial_requirements.pdf">2019-10-24_initial_requirements</a>
+    <a class="text-underline color-purple1" href="/documents/requirements_v1.pdf">requirements_v1</a>
+  </p>
+</div>
+<div style="height: 20px;"></div>
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
+<div name="prototype">
+  <p class="text text-subtitle font-robo color-purple1">Prototype</p>
+  <div style="height: 15px;"></div>
+  <p class="text text-body font-robo color-purple1">
+    <a class="text-underline color-purple1" href="/documents/prototype_v1.pdf">prototype_v1</a>
   </p>
 </div>
 
