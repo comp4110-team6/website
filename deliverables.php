@@ -19,6 +19,8 @@
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
     Our proposal for this project<br><br>
+    <a class="text-underline color-purple1" href="/documents/proposal_revised.pdf">2019-11-4_project_proposal</a>
+    <a class="text-underline color-purple1" href="/documents/proposal_with_notes.pdf">2019-10-30_project_proposal</a>
     <a class="text-underline color-purple1" href="/documents/proposal.pdf">2019-10-24_project_proposal</a>
   </p>
 </div>
