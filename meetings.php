@@ -15,7 +15,7 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div>
+<div name="2019-10-21">
   <p class="text text-subtitle font-robo color-purple1">October 21st, 2019</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
@@ -34,7 +34,7 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div>
+<div name="2019-10-27">
   <p class="text text-subtitle font-robo color-purple1">October 27th, 2019</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
@@ -57,7 +57,7 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div>
+<div name="2019-11-03">
   <p class="text text-subtitle font-robo color-purple1">November 3rd, 2019</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">

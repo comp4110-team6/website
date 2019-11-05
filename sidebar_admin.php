@@ -33,8 +33,9 @@
   <div style="height: 10px;"></div>
   <details class="text font-robo color-white">
     <summary><a class="text-body text-no-underline color-white" href="meetings.php">Meetings</a></summary>
-    <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-20">October 20th, 2019</a><br>
-    <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-23">October 23th, 2019</a>
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-21">October 21st, 2019</a><br>
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-27">October 27th, 2019</a><br>
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-03">November 3rd, 2019</a>
   </details>
   <div style="height: 20px;"></div>
   <p class="text text-body font-robo color-white">
