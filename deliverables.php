@@ -14,7 +14,7 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div>
+<div name="project_proposal">
   <p class="text text-subtitle font-robo color-purple1">Project Proposal</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
@@ -27,7 +27,7 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div>
+<div name="iniital_questions">
   <p class="text text-subtitle font-robo color-purple1">Initial questions</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
@@ -38,7 +38,7 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div>
+<div name="initial_requirements">
   <p class="text text-subtitle font-robo color-purple1">Initial requirements</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">

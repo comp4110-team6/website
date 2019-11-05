@@ -21,8 +21,9 @@
     <div style="height: 10px;"></div>
     <details class="text font-robo color-white">
       <summary><a class="text-body text-no-underline color-white" href="deliverables.php">Deliverables</a></summary>
-      <a class="text-body text-no-underline color-white" href="deliverables.php#deliv_quest">Initial questions</a><br>
-      <a class="text-body text-no-underline color-white" href="deliverables.php#deliv_requi">Initial requirements</a>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#project_proposal">Project Proposal</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#iniital_questions">Initial questions</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#initial_requirements">Initial requirements</a>
     </details>
     <div style="height: 10px;"></div>
     <details class="text font-robo color-white">
