@@ -10,8 +10,18 @@
 <div class="content">
 
 
-
 <p class="text text-heading font-mate color-purple1">Deliverables</p>
+<div style="height: 20px;"></div>
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
+<div>
+  <p class="text text-subtitle font-robo color-purple1">Project Proposal</p>
+  <div style="height: 15px;"></div>
+  <p class="text text-body font-robo color-purple1">
+    Our proposal for this project<br><br>
+    <a class="text-underline color-purple1" href="/documents/proposal.pdf">2019-10-24_project_proposal</a>
+  </p>
+</div>
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
@@ -20,7 +30,7 @@
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
     Our initial questions for the project<br><br>
-    <a class="text-underline color-purple1" href="">2019-10-24_initial_questions</a>
+    <a class="text-underline color-purple1" href="/documents/initial_quetions.pdf">2019-10-24_initial_questions</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
@@ -31,7 +41,7 @@
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
     Our initial requirements for the project<br><br>
-    <a class="text-underline color-purple1" href="">2019-10-24_initial_requirements</a>
+    <a class="text-underline color-purple1" href="/documents/initial_requirements.pdf">2019-10-24_initial_requirements</a>
   </p>
 </div>
 

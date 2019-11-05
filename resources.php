@@ -51,16 +51,6 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
-<div name="resou_bibli">
-  <p class="text text-subtitle font-robo color-purple1">Bibliography</p>
-  <div style="height: 15px;"></div>
-  <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="">Our project's bibliography</a>
-  </p>
-</div>
-<div style="height: 20px;"></div>
-<div style="height: 1px;width: 610px;background-color: #807589;"></div>
-<div style="height: 20px;"></div>
 <p class="text text-subtitle font-robo color-purple1">Deliverables</p>
   <div style="height: 15px;"></div>
   <a class="text text-body text-underline font-robo color-purple1" href="deliverables.php">Click here to view our Deliverables</a>
@@ -70,12 +60,44 @@
 <p class="text text-subtitle font-robo color-purple1">Milestones</p>
   <div style="height: 15px;"></div>
   <a class="text text-body text-underline font-robo color-purple1" href="milestones.php">Click here to view our Milestones</a>
+  <div style="height: 20px;"></div>
 
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
+<div name="resou_slides">
+  <p class="text text-subtitle font-robo color-purple1">Presentation Slides</p>
+  <div style="height: 15px;"></div>
+  <p class="text text-body font-robo color-purple1">
+    <a class="text-underline color-purple1" href="">Our project's presentation slides</a>
+    <div style="height: 5px;"></div>
+
+  </p>
+</div>
+
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
+<div name="resou_video">
+  <p class="text text-subtitle font-robo color-purple1">Demonstration video</p>
+  <div style="height: 15px;"></div>
+  <p class="text text-body font-robo color-purple1">
+    <a class="text-underline color-purple1" href="">Our project's demonstration video</a>
+  </p>
+</div>
+<div style="height: 20px;"></div>
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
+<div name="resou_bibli">
+  <p class="text text-subtitle font-robo color-purple1">Bibliography and Domain Research</p>
+  <div style="height: 15px;"></div>
+  <p class="text text-body font-robo color-purple1">
+    <a class="text-underline color-purple1" href="/bibliography.php">Our project's bibliography</a>
+  </p>
+</div>
+</div>
 
 
 </div>
 
-</div>
 </body>
 
 </html>

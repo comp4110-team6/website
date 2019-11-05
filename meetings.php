@@ -54,7 +54,25 @@
     </div>
   </p>
 </div>
-
+<div style="height: 20px;"></div>
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
+<div>
+  <p class="text text-subtitle font-robo color-purple1">November 3rd, 2019</p>
+  <div style="height: 15px;"></div>
+  <p class="text text-body font-robo color-purple1">
+    30 minutes<br><br>
+    <div style="margin-left: 30px">
+      <ul class="text text-body font-robo color-purple1">
+        <li>Got Robert up to speed with the game itself, the idea behind it and the technology we will use.</li>
+        <li>Since the Software Requirements Specification and UI are both due sometime next week, we should have them finished by Sunday.</li>
+        <li>Everyone is to get familiar with GoDot engine, downloading the software and getting acquainted with it.</li>
+        <li>Added two sections in Git repo, one for the game and one for the webstie.</li>
+        <li>Bryan and Noah to focus on UI, everyone else to focus on SRS, although there will need to be collaboration between parties for effective resuslts. </li>
+      </ul>
+    </div>
+  </p>
+</div>
 
 
 </div>
