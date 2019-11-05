@@ -53,13 +53,13 @@ details > details > *:not(summary) {
 
 .card {
     display: grid;
-    grid-gap: 10px;
+    grid-gap: 15px;
 }
 .card_left {
-    grid-template-columns: 200px 400px;
+    grid-template-columns: 200px 395px;
 }
 .card_right {
-    grid-template-columns: 400px 200px;
+    grid-template-columns: 395px 200px;
 }
 
 .sidebar {

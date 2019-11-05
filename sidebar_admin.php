@@ -1,6 +1,6 @@
 <div class="sidebar" style="background-color: #807589;">
   <p class="text text-title font-mate color-white">
-    <a class="text-no-underline color-white" href="index.php">Group 6</a>
+    <a class="text-no-underline color-white" href="index.php">Team 6</a>
   </p>
   <div style="height: 10px;"></div>
   <details class="text font-robo color-white">
@@ -14,21 +14,28 @@
   <div style="height: 10px;"></div>
   <details class="text font-robo color-white">
     <summary><a class="text-body text-no-underline color-white" href="resources.php">Resources</a></summary>
-    <a class="text-body text-no-underline color-white" href="resources.php#resou_descr">Description</a><br>
-    <a class="text-body text-no-underline color-white" href="resources.php#resou_speci">Specification</a><br>
-    <a class="text-body text-no-underline color-white" href="resources.php#resou_proto">Prototype</a><br>
-    <a class="text-body text-no-underline color-white" href="resources.php#resou_bibli">Bibliography</a>
+    <a class="text-body text-no-underline color-white" href="resources.php#background">Background</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#description">Description</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#bibliography">Bibliography</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#domain">Domain research</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#specification">Specification</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#prototype">Prototype</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#presentation">Presentation</a><br>
+    <a class="text-body text-no-underline color-white" href="resources.php#demonstration">Demonstration</a>
     <div style="height: 10px;"></div>
     <details class="text font-robo color-white">
       <summary><a class="text-body text-no-underline color-white" href="deliverables.php">Deliverables</a></summary>
-      <a class="text-body text-no-underline color-white" href="deliverables.php#project_proposal">Project Proposal</a><br>
-      <a class="text-body text-no-underline color-white" href="deliverables.php#iniital_questions">Initial questions</a><br>
-      <a class="text-body text-no-underline color-white" href="deliverables.php#initial_requirements">Initial requirements</a>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#proposal">Proposal</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#questions">Questions</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#specification">Specification</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#prototype">Prototype</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#presentation">Presentation</a><br>
+      <a class="text-body text-no-underline color-white" href="deliverables.php#demonstration">Demonstration</a>
     </details>
     <div style="height: 10px;"></div>
     <details class="text font-robo color-white">
       <summary><a class="text-body text-no-underline color-white" href="milestones.php">Milestones</a></summary>
-      <a class="text-body text-no-underline color-white" href="milestones.php#miles_propo">Idea theorized</a>
+      <a class="text-body text-no-underline color-white" href="milestones.php#idea">Idea theorized</a>
     </details>
   </details>
   <div style="height: 10px;"></div>

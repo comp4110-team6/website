@@ -18,7 +18,7 @@
 
 <div class="card card_left" name="dallen">
   <div>
-    <img src="images/dallen.jpg" height="200px" width="200px"> 
+    <img src="images/dallen.png" height="200px" width="200px"> 
   </div>
   <div>
     <p class="text text-subtitle font-robo color-purple1">De'Ondre Allen</p>
@@ -30,7 +30,7 @@
     <p class="text text-body font-robo color-purple1">
       <a class="text-underline color-purple1" href="mailto:deondrejallen@gmail.com">deondrejallen@gmail.com</a><br><br>
       <a class="text-underline color-purple1" href="https://github.com/DeOndre-Allen">github</a>, 
-      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/deondre-allen/">linkedin</a>
+      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/deondre-allen">linkedin</a>
     </p>
   </div>
 </div>
@@ -58,7 +58,7 @@
 <div style="height: 20px;"></div>
 <div class="card card_left" name="nmezher">
   <div>
-    <img src="images/nmezher.jpg" height="200px" width="200px"> 
+    <img src="images/nmezher.png" height="200px" width="200px"> 
   </div>  
   <div>
     <p class="text text-subtitle font-robo color-purple1">Noah Mezher</p>
@@ -70,7 +70,7 @@
     <p class="text text-body font-robo color-purple1">
       <a class="text-underline color-purple1" href="mailto:noahmezher@gmail.com">noahmezher@gmail.com</a><br><br>
       <a class="text-underline color-purple1" href="https://github.com/NoahMezher">github</a>, 
-      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/noahmezher/">linkedin</a>
+      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/noahmezher">linkedin</a>
     </p>
   </div>
 </div>
@@ -89,11 +89,11 @@
     <p class="text text-body font-robo color-purple1">
       <a class="text-underlin color-purple1" href="mailto:jackrsummers@gmail.com">jackrsummers@gmail.com</a><br><br>
       <a class="text-underline color-purple1" href="https://github.com/Flannelz">github</a>, 
-      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/johnsummers-959/">linkedin</a>
+      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/johnsummers-959">linkedin</a>
     </p>
   </div>
   <div>
-    <img src="images/jsummers.jpg" height="200px"> 
+    <img src="images/jsummers.png" height="200px"> 
   </div> 
 </div>
 <div style="height: 20px;"></div>
@@ -101,7 +101,7 @@
 <div style="height: 20px;"></div>
 <div class="card card_left" name="rterravecchia">
   <div>
-    <img src="images/rterravecchia.jpg" height="200px" width="200px"> 
+    <img src="images/rterravecchia.png" height="200px" width="200px"> 
   </div>  
   <div>
     <p class="text text-subtitle font-robo color-purple1">Robert Terravecchia</p>
@@ -111,8 +111,8 @@
     Hello there! My name is Rob Terravecchia, I'm a senior Computer Science major at UMass Lowell and am graduating in May 2020. My experience includes using C and C++ to develop embedded robotics systems and Java, Spring Boot and Oracle SQL to develop large scalable enterprise applications in an agile environment. </p>
     <div style="height: 15px;"></div>
     <p class="text text-body font-robo color-purple1">
-      <a class="text-underline color-purple1" href="">github</a>, 
-      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/robert-terravecchia/">linkedin</a>
+      <a class="text-underline color-purple1" href="https://github.com/RT3vec">github</a>, 
+      <a class="text-underline color-purple1" href="https://www.linkedin.com/in/robert-terravecchia">linkedin</a>
     </p>
   </div>
 </div>
