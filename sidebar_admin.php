@@ -5,7 +5,7 @@
   <div style="height: 10px;"></div>
   <details class="text font-robo color-white">
     <summary><a class="text-body text-no-underline color-white" href="roster.php">Roster</a></summary>
-    <a class="text-body text-no-underline color-white" href="roster.php#dallen">DeOndre Allen</a><br>
+    <a class="text-body text-no-underline color-white" href="roster.php#dallen">De'Ondre Allen</a><br>
     <a class="text-body text-no-underline color-white" href="roster.php#bbean">Bryan Bean</a><br>
     <a class="text-body text-no-underline color-white" href="roster.php#nmezher">Noah Mezher</a><br>
     <a class="text-body text-no-underline color-white" href="roster.php#jsummers">Jack Summers</a><br>
@@ -44,7 +44,7 @@
   </p>
   <div style="height: 20px;"></div>
   <p class="text text-body font-robo color-white">
-    Created by DeOndre Allen, Bryan Bean, Noah Mezher, Jack Summers, and Robert Terravecchia<br><br>
+    Created by De'Ondre Allen, Bryan Bean, Noah Mezher, Jack Summers, and Robert Terravecchia<br><br>
     Copyright 2019<br><br>
     All rights reserved
   </p>
