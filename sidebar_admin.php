@@ -43,7 +43,9 @@
     <summary><a class="text-body text-no-underline color-white" href="meetings.php">Meetings</a></summary>
     <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-21">October 21st, 2019</a><br>
     <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-27">October 27th, 2019</a><br>
-    <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-03">November 3rd, 2019</a>
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-03">November 3rd, 2019</a><br>
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-07">November 7th, 2019</a><br>
+
   </details>
   <div style="height: 20px;"></div>
   <p class="text text-body font-robo color-white">

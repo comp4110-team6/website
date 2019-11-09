@@ -1,0 +1,36 @@
+Save Data: Will store a username, score, how many levels have been progressed
+through, and overall high score.
+
+Game Logic Class: Handles spawning, player input, equation generation and
+checking, keeps score, keeps track of lives, knows what orbs are correct or
+not.
+
+Player class: Has lives, can move (x, y position), collides with orbs, sends
+information to game logic class, keeps track of score and when the player 
+catches the correct orb.
+
+Orb class: Has a value, T/F whether or not it is valid, has some velocity,
+has some position, collides with a player, all orbs fall at the same speed.
+
+Game mechanics: 6 Stages, each has a certain set of levels.
+1. Addition 2. Subtraction 3. Multiplication 4. Division 5. Fractions
+6. Missing numbers in equations.
+
+Game flow:
+- Click Start from title menu and select level.
+- Once a level is selected, the in game UI is shown.
+- Countdown timer begins counting down from 3.
+- Show player location on screen, show equation once timer is up.
+- Score starts at 0, health starts at 3 hearts.
+- High score is displayed if one exists.
+- Orbs begin to fall once the timer reaches 0, and fall at half-second
+intervals.
+- Only 5 orbs are on the screen at a time (we will utilize lanes for this)
+- You lose a whole heart if you pick the wrong answer.
+- You lose half a heart if the correct answer falls through.
+- The question changes after the correct orb is caught, the correct orb
+falls through, or an incorrect orb is caught.
+- Scoring: 100pts for each right answer, 1000 points to progress to the
+next level.
+- Once a level is complete, show statistics and show the option to 
+move on to the next level. (think mobile game level completion screen)
