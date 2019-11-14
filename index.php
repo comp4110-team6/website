@@ -11,7 +11,7 @@
 
 
 
-<p class="text text-heading font-mate color-purple1">Our Project</p>
+<p class="text text-heading font-mate color-purple1">Tap Tap Computation</p>
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
