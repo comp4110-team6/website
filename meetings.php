@@ -83,7 +83,7 @@
           <ul class="text text-body font-robo color-purple1">
             <li>Got together as a group to discuss game mechanics in detail.</li>
             <li>Updated the group on UI progress, as of that meeting the Title Screen and Options Screen are complete</li>
-            <li>Full notes of what was discussed in that meeting can be found <a href="/documents/11-07-notes.txt">here</a></li>
+            <li>Full notes of what was discussed in that meeting can be found <a class="text-underline color-purple1" href="documents/2019-11-07_notes.txt">here</a></li>
             <li>Exchanged phone numbers to better contact one another.</li>
             <li>We are all to finish the SRS and UI by Monday, reconvene over Discord to discuss submission for Wednesday</li>
           </ul>
