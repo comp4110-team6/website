@@ -1,6 +1,6 @@
 <div class="sidebar" style="background-color: #807589;">
   <p class="text text-title font-mate color-white">
-    <a class="text-no-underline color-white" href="index.php">Team 6</a>
+    <a class="text-no-underline color-white" href="index.php">T-Six Games</a>
   </p>
   <div style="height: 10px;"></div>
   <details class="text font-robo color-white">
