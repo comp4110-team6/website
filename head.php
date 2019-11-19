@@ -6,5 +6,5 @@
   <link href="https://fonts.googleapis.com/css?family=Mate" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Playfair+Display" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Roboto+Mono" rel="stylesheet">
-  <title>Group 6</title>
+  <title>T-Six Games</title>
 </head>

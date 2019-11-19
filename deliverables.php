@@ -61,7 +61,7 @@
   <p class="text text-subtitle font-robo color-purple1">Prototype</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="documents/prototype_v1.pdf">prototype_v1</a>
+    <a class="text-underline color-purple1" href="documents/prototype_v1.zip">prototype_v1</a>
   </p>
 </div>
 <div style="height: 20px;"></div>

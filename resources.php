@@ -43,7 +43,12 @@
   <p class="text text-body font-robo color-purple1">
     The Godot game engine is how we will primarily be building the software behind our game. A link to their website and documentation can be found below.<br><br>
     <a class="text-underline color-purple1" href="https://godotengine.org">Godot's website</a>, 
-    <a class="text-underline color-purple1" href="https://docs.godotengine.org/en/3.1">Godot's documentation</a>
+    <a class="text-underline color-purple1" href="https://docs.godotengine.org/en/3.1">Godot's documentation</a><br><br>
+    The music in Tap Tap Computation is provided under a noncommercial license from Filmstro. Specifically we utilize the "Gambado" audio track. More information concerning Filmstro can be found in the link below.<br><br>
+    <a class="text-underline color-purple1" href="https://filmstro.com">Filmstro's website</a><br><br>
+    The button "click" noise in Tap Tap Computation is provided under a Creative Commons 0 License from Freesound. Specifically, we utilize Leszek Szary's "menu button" audio track.<br><br>
+    <a class="text-underline color-purple1" href="https://freesound.org">Freesound's website</a>, 
+    <a class="text-underline color-purple1" href="https://freesound.org/people/Leszek_Szary/sounds/191592">Leszek Szary's "menu button"</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
@@ -75,7 +80,7 @@
   <p class="text text-subtitle font-robo color-purple1">Prototype</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="documents/prototype_v1.pdf">prototype</a>
+    <a class="text-underline color-purple1" href="documents/prototype_v1.zip">prototype</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
