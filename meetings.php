@@ -65,7 +65,7 @@
             <li>Got Robert up to speed with the game itself, the idea behind it and the technology we will use.</li>
             <li>Since the Software Requirements Specification and UI are both due sometime next week, we should have them finished by Sunday.</li>
             <li>Everyone is to get familiar with GoDot engine, downloading the software and getting acquainted with it.</li>
-            <li>Added two sections in Git repo, one for the game and one for the webstie.</li>
+            <li>Added two sections in Git repo, one for the game and one for the website.</li>
             <li>Bryan and Noah to focus on UI, everyone else to focus on SRS, although there will need to be collaboration between parties for effective resuslts. </li>
           </ul>
         </div>
@@ -82,15 +82,54 @@
         <div style="margin-left: 30px">
           <ul class="text text-body font-robo color-purple1">
             <li>Got together as a group to discuss game mechanics in detail.</li>
-            <li>Updated the group on UI progress, as of that meeting the Title Screen and Options Screen are complete</li>
-            <li>Full notes of what was discussed in that meeting can be found <a href="/documents/11-07-notes.txt">here</a></li>
+            <li>Updated the group on UI progress, as of that meeting the Title Screen and Options Screen are complete.</li>
+            <li>Full notes of what was discussed in that meeting can be found <a href="/documents/11-07-notes.txt">here.</a></li>
             <li>Exchanged phone numbers to better contact one another.</li>
-            <li>We are all to finish the SRS and UI by Monday, reconvene over Discord to discuss submission for Wednesday</li>
+            <li>We are all to finish the SRS and UI by Monday, reconvene over Discord to discuss submission for Wednesday.</li>
           </ul>
         </div>
       </p>
     </div>
-
+    <div style="height: 20px;"></div>
+    <div style="height: 1px;width: 610px;background-color: #807589;"></div>
+    <div style="height: 20px;"></div>
+    <div name="2019-11-13">
+      <p class="text text-subtitle font-robo color-purple1">November 13th, 2019</p>
+      <div style="height: 15px;"></div>
+      <p class="text text-body font-robo color-purple1">
+        30 minutes<br><br>
+        <div style="margin-left: 30px">
+          <ul class="text text-body font-robo color-purple1">
+            <li>Met over Discord to discuss SRS v1 and Prototype UI submission.</li>
+            <li>Discussed the requirements for the SRS and combined each of our individual parts into one document.</li>
+            <li>Read over the entire SRS document to ensure correctness.</li>
+            <li>Played through the UI to ensure all selectable options had proper functionality.</li>
+            <li>Packaged UI into a zip file for submission.</li>
+            <li>Game development will continue while we wait for SRS and UI feedback.</li> 
+          </ul>
+        </div>
+      </p>
+    </div>
+    <div style="height: 20px;"></div>
+    <div style="height: 1px;width: 610px;background-color: #807589;"></div>
+    <div style="height: 20px;"></div>
+    <div name="2019-11-18">
+      <p class="text text-subtitle font-robo color-purple1">November 18th, 2019</p>
+      <div style="height: 15px;"></div>
+      <p class="text text-body font-robo color-purple1">
+        1 hour<br><br>
+        <div style="margin-left: 30px">
+          <ul class="text text-body font-robo color-purple1">
+            <li>Assigned roles can be found on the Peer Review template Jack sent out over discord.</li>
+            <li>Looked over SRS feedback from Prof. Daly in class, discussed who will improve on what.</li>
+            <li>Jack is to revise section 4 of SRS.</li>
+            <li>Robert will revise section 3 and work on level generation.</li>
+            <li>Bryan will continue to work on the game and get movement for the player bucket done by Wednesday.</li>
+            <li>Noah and De'Ondre to revise section 4 of SRS and create diagrams.</li> 
+          </ul>
+        </div>
+      </p>
+    </div>
   </div> <!-- End content -->
 
 </div>  <!-- End wrapper -->

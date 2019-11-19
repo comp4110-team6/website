@@ -45,7 +45,8 @@
     <a class="text-body text-no-underline color-white" href="meetings.php#2019-10-27">October 27th, 2019</a><br>
     <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-03">November 3rd, 2019</a><br>
     <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-07">November 7th, 2019</a><br>
-
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-13">November 13th, 2019</a><br>
+    <a class="text-body text-no-underline color-white" href="meetings.php#2019-11-18">November 18th, 2019</a><br>
   </details>
   <div style="height: 20px;"></div>
   <p class="text text-body font-robo color-white">

@@ -64,7 +64,8 @@
   <p class="text text-subtitle font-robo color-purple1">Specification</p>
   <div style="height: 15px;"></div>
   <p class="text text-body font-robo color-purple1">
-    <a class="text-underline color-purple1" href="documents/srs_v1.pdf">srs</a>
+    <a class="text-underline color-purple1" href="documents/srs_v1.pdf">SRS v1</a>
+    <a class="text-underline color-purple1" href="documents/srs_review.zip">SRS v1 Feedback from Professor</a>
   </p>
 </div>
 <div style="height: 20px;"></div>
