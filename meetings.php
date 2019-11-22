@@ -78,7 +78,7 @@
       <p class="text text-subtitle font-robo color-purple1">November 7th, 2019</p>
       <div style="height: 15px;"></div>
       <p class="text text-body font-robo color-purple1">
-        1 hour and 30 minutes<br><br>
+        90 minutes<br><br>
         <div style="margin-left: 30px">
           <ul class="text text-body font-robo color-purple1">
             <li>Got together as a group to discuss game mechanics in detail.</li>
@@ -117,7 +117,7 @@
       <p class="text text-subtitle font-robo color-purple1">November 18th, 2019</p>
       <div style="height: 15px;"></div>
       <p class="text text-body font-robo color-purple1">
-        1 hour<br><br>
+        60 minutes<br><br>
         <div style="margin-left: 30px">
           <ul class="text text-body font-robo color-purple1">
             <li>Assigned roles can be found on the Peer Review template Jack sent out over discord.</li>
