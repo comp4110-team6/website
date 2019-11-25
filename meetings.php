@@ -125,7 +125,7 @@
             <li>Jack is to revise section 4 of SRS.</li>
             <li>Robert will revise section 3 and work on level generation.</li>
             <li>Bryan will continue to work on the game and get movement for the player bucket done by Wednesday.</li>
-            <li>Noah and De'Ondre to revise section 4 of SRS and create diagrams.</li> 
+            <li>Noah and De'Ondre to revise section 2 of SRS and create diagrams.</li> 
           </ul>
         </div>
       </p>
