@@ -65,6 +65,12 @@
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>
+<p class="text text-title font-mate color-purple1">
+  <a class="text-no-underline color-purple1" href="deliverables.php">Deliverables</a>
+</p>
+<div style="height: 20px;"></div>
+<div style="height: 1px;width: 610px;background-color: #807589;"></div>
+<div style="height: 20px;"></div>
 <div name="specification">
   <p class="text text-subtitle font-robo color-purple1">Specification</p>
   <div style="height: 15px;"></div>
@@ -103,12 +109,6 @@
     <a class="text-underline color-purple1" href="documents/demonstration_v1.pdf">demonstration</a>
   </p>
 </div>
-<div style="height: 20px;"></div>
-<div style="height: 1px;width: 610px;background-color: #807589;"></div>
-<div style="height: 20px;"></div>
-<p class="text text-title font-mate color-purple1">
-  <a class="text-no-underline color-purple1" href="deliverables.php">Deliverables</a>
-</p>
 <div style="height: 20px;"></div>
 <div style="height: 1px;width: 610px;background-color: #807589;"></div>
 <div style="height: 20px;"></div>

@@ -130,6 +130,31 @@
         </div>
       </p>
     </div>
+    <div style="height: 20px;"></div>
+    <div style="height: 1px;width: 610px;background-color: #807589;"></div>
+    <div style="height: 20px;"></div>
+    <div name="2019-11-23">
+      <p class="text text-subtitle font-robo color-purple1">November 23rd, 2019</p>
+      <div style="height: 15px;"></div>
+      <p class="text text-body font-robo color-purple1">
+        60 minutes<br><br>
+        <div style="margin-left: 30px">
+          <ul class="text text-body font-robo color-purple1">
+            <li>Noah to check in with De'Ondre about Section 2 revision and diagrams. Diagrams to be updated by Tuesday for revision submission.</li>
+            <li>Checked in with Bryan about changes to final product, new features to be implemented:</li>
+            <ul style="padding-left:20px">
+              <li>Add username feature with saving.</li>
+              <li>Create dynamically instanced levels for game loop.</li>
+              <li>Add movement to player and orbs.</li>
+              <li>Complete problem generation for all modes.</li>
+              <li>Add sound effects for game events.</li>
+            </ul>
+            <li>Jack to start artwork over vacation.</li>
+            <li>TODO: Update website with new deliverables and organization.</li>
+          </ul>
+        </div>
+      </p>
+    </div>
   </div> <!-- End content -->
 
 </div>  <!-- End wrapper -->
