@@ -181,9 +181,42 @@
                     </div>
                 </p>
             </div>
-
-
-
+            <div style="height: 20px;"></div>
+            <div style="height: 1px;width: 610px;background-color: #807589;"></div>
+            <div style="height: 20px;"></div>
+            <div name="2019-12-2">
+              <p class="text text-subtitle font-robo color-purple1">December 2nd, 2019</p>
+              <div style="height: 15px;"></div>
+              <p class="text text-body font-robo color-purple1">
+                30 minutes<br><br>
+                <div style="margin-left: 30px">
+                  <ul class="text text-body font-robo color-purple1">
+                    <li>Group members each assigned roles for SRS, prototype, and presentation deliverables.</li>
+                    <li>We are aiming for the 3 points of extra credit for both the SRS and the Prototype V2.</li>
+                    <li>Checked in with each group member about what work has been done over break.</li>
+                    <li>Bryan to work on getting art assets for the game, Jack will help with some of those such as bucket model, heart, and apple.</li>
+                    <li>Noah and De'Ondre to keep working on SRS sections 1 and 2 revisions by adding diagrams and ensuring all criteria is met for content.</li>
+                    <li>Rob to start the presentation and complete the demonstration video for next Wednesday's submission.</li>
+                    <li>Jack to continue working on section 4 of the SRS and update modeling based on the new prototype revisions.</li>
+                  </ul>
+                </div>
+              </p>
+            </div>
+            <div style="height: 20px;"></div>
+            <div style="height: 1px;width: 610px;background-color: #807589;"></div>
+            <div style="height: 20px;"></div>
+            <div name="2019-12-8">
+              <p class="text text-subtitle font-robo color-purple1">December 8th, 2019</p>
+              <div style="height: 15px;"></div>
+              <p class="text text-body font-robo color-purple1">
+                1 hour<br><br>
+                <div style="margin-left: 30px">
+                  <ul class="text text-body font-robo color-purple1">
+                    <li>Presentation practice.</li>
+                  </ul>
+                </div>
+              </p>
+            </div>
         </div>
     </div>
 </body>
