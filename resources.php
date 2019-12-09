@@ -156,12 +156,6 @@
                     <a class="text-underline color-purple1" href="">demonstration</a>
                 </p>
             </div>
-            <div style="height: 20px;"></div>
-            <div style="height: 1px;width: 610px;background-color: #807589;"></div>
-            <div style="height: 20px;"></div>
-            <p class="text text-title font-mate color-purple1">
-                <a class="text-no-underline color-purple1" href="milestones.php">Milestones</a>
-            </p>
 
 
 

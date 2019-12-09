@@ -30,11 +30,6 @@
             <a class="text-body text-no-underline color-white" href="deliverables.php#presentation">Presentation</a><br>
             <a class="text-body text-no-underline color-white" href="deliverables.php#demonstration">Demonstration</a>
         </details>
-        <div style="height: 10px;"></div>
-        <details class="text font-robo color-white">
-            <summary><a class="text-body text-no-underline color-white" href="milestones.php">Milestones</a></summary>
-            <a class="text-body text-no-underline color-white" href="milestones.php#idea">Idea theorized</a>
-        </details>
     </details>
     <div style="height: 10px;"></div>
     <details class="text font-robo color-white">
