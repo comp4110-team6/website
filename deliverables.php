@@ -22,7 +22,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div name="proposal">
+            <div id="proposal">
                 <p class="text text-subtitle font-robo color-purple1">Proposal</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
@@ -33,7 +33,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div name="questions">
+            <div id="questions">
                 <p class="text text-subtitle font-robo color-purple1">Questions</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
@@ -44,7 +44,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div name="specification">
+            <div id="specification">
                 <p class="text text-subtitle font-robo color-purple1">Specification</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
@@ -55,7 +55,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div name="prototype">
+            <div id="prototype">
                 <p class="text text-subtitle font-robo color-purple1">Prototype</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
@@ -66,7 +66,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div name="presentation">
+            <div id="presentation">
                 <p class="text text-subtitle font-robo color-purple1">Presentation slideshow</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
@@ -76,7 +76,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div name="demonstration">
+            <div id="demonstration">
                 <p class="text text-subtitle font-robo color-purple1">Demonstration video</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">

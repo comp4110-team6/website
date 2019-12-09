@@ -14,7 +14,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div class="card card_left" name="dallen">
+            <div class="card card_left" id="dallen">
                 <div>
                     <img src="images/dallen.png" height="200px" width="200px">
                 </div>
@@ -39,7 +39,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div class="card card_right" name="bbean">
+            <div class="card card_right" id="bbean">
                 <div>
                     <p class="text text-subtitle font-robo color-purple1">Bryan Bean</p>
                     <div style="height: 15px;"></div>
@@ -62,7 +62,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div class="card card_left" name="nmezher">
+            <div class="card card_left" id="nmezher">
                 <div>
                     <img src="images/nmezher.png" height="200px" width="200px">
                 </div>
@@ -89,7 +89,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div class="card card_right" name="jsummers">
+            <div class="card card_right" id="jsummers">
                 <div>
                     <p class="text text-subtitle font-robo color-purple1">Jack Summers</p>
                     <div style="height: 15px;"></div>
@@ -116,7 +116,7 @@
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
             <div style="height: 20px;"></div>
-            <div class="card card_left" name="rterravecchia">
+            <div class="card card_left" id="rterravecchia">
                 <div>
                     <img src="images/rterravecchia.png" height="200px" width="200px">
                 </div>
