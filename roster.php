@@ -22,7 +22,7 @@
                     <p class="text text-subtitle font-robo color-purple1">De'Ondre Allen</p>
                     <div style="height: 15px;"></div>
                     <p class="text text-body subtitle font-robo color-purple1">
-                        Software Developer<br><br>
+                        Customer Liaison<br><br>
                         De'Ondre Allen is an undergraduate Computer Science major at University of Massachusetts Lowell.
                         Main interest is in game design.
                     </p>
@@ -44,7 +44,7 @@
                     <p class="text text-subtitle font-robo color-purple1">Bryan Bean</p>
                     <div style="height: 15px;"></div>
                     <p class="text text-body font-robo color-purple1">
-                        Webmaster<br><br>
+                        Configuration Manager<br><br>
                         Bryan is an undergraduate Computer Science student at UMass Lowell. Right now he's looking for a
                         co-op/internship position in the software development world. He's particularly interested in any
                         front-end or full-stack opportunities. He also likes cooking and keyboards.<br><br>
@@ -70,7 +70,7 @@
                     <p class="text text-subtitle font-robo color-purple1">Noah Mezher</p>
                     <div style="height: 15px;"></div>
                     <p class="text text-body subtitle font-robo color-purple1">
-                        Software Developer<br><br>
+                        Project Facilitator<br><br>
                         Noah is an undergraduate computer science student at UMass Lowell. Noah has almost a year of
                         experience in software development through two internships at Kronos Inc., and recently accepted
                         an internship at Arista Networks for Summer 2020. He will be graduating in December 2020, and
@@ -124,7 +124,7 @@
                     <p class="text text-subtitle font-robo color-purple1">Robert Terravecchia</p>
                     <div style="height: 15px;"></div>
                     <p class="text text-body subtitle font-robo color-purple1">
-                        Software Developer<br><br>
+                        Security Engineer<br><br>
                         Hello there! My name is Rob Terravecchia, I'm a senior Computer Science major at UMass Lowell
                         and am graduating in May 2020. My experience includes using C and C++ to develop embedded
                         robotics systems and Java, Spring Boot and Oracle SQL to develop large scalable enterprise
