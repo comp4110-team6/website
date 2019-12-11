@@ -42,7 +42,34 @@
                 <p class="text text-subtitle font-robo color-purple1">Description</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
-                    Needs content
+                    Tap Tap Computation is a math-based game in which users create their own personal profile and 
+                    progress through four stages of mathematical subjects (addition, subtraction, multiplication, and 
+                    division). Each stage contains three levels, with each level being more difficult than the one prior.
+                    Once one level has been completed within a stage, the next level unlocks for the user, and once the 
+                    user has completed all levels within a stage, the next stage unlocks.
+                </p>
+                <div style="height: 15px;"></div>
+                <p class="text text-body font-robo color-purple1">
+                    Each level has the same basic gameplay loop: the user controls a bucket at the bottom of the screen
+                    that can be moved with either the left or right arrow keys, or A and D on the keyboard. Once a level
+                    is selected, the user is tasked with catching falling apples from the top of the screen with their 
+                    bucket. Each apple has a number on it corresponding to either a correct answer or a wrong answer to
+                    the equation that appears at the top of the screen. Each equation within a level is randomly generated
+                    with some constraints to keep it in line with what 3rd graders would be expected to practice. However,
+                    as the user progresses through a stage, the equations become harder to calculate and the apples fall
+                    faster, increasing the challenge.
+                </p>
+                <div style="height: 15px;"></div>
+                <p class="text text-body font-robo color-purple1">
+                    The user will start with three hearts for each level. If an incorrect answer is caught with the bucket, 
+                    the user will lose a heart. If the correct answer falls through the screen, the user loses a heart. Once
+                    all questions have been asked and answered correctly, or once the user loses all three hearts, the level
+                    concludes, and the summary screen is displayed.
+                </p>
+                <div style="height: 15px;"></div>
+                <p class="text text-body font-robo color-purple1">
+                    On the summary screen for each level, the user can see which questions were asked, how they answered,
+                    and whether or not their answer was correct, with the correct answer being given if theirs was wrong. 
                 </p>
             </div>
             <div style="height: 20px;"></div>
@@ -103,11 +130,19 @@
                 <p class="text text-body font-robo color-purple1">
                     Since our game is designed to be educational, players will be learning math based on the U.S.'s
                     Common Core standards. 3rd Grade is our target audience, so below is a link to their learning
-                    standards. They will be solving problems involving addition, subtraction, multiplication, division,
-                    using operations and algebraic thinking, and fractions.<br><br>
+                    standards. They will be solving problems involving addition, subtraction, and multiplication.<br><br>
                     <a class="text-underline color-purple1"
                         href="http://www.corestandards.org/Math/Content/3/introduction">3rd Grade Mathematics
                         Standards</a>
+                </p>
+                <div style="height: 15px;"></div>
+                <p class="text text-body font-robo color-purple1">
+                    The core theory behind this game is the idea of repetition as a means for learning. In a 1986 
+                    study conducted for the Journal of  Educational Psychology, the findings were clear that the 
+                    more someone repeats a procedure, the better that person is going to be at recalling it in
+                    the future. <br><br>
+                    <a class="text-underline color-purple1"
+                        href="https://psycnet.apa.org/record/1986-29122-001">Quantitative and qualitative effects of repetition on learning from technical text.</a>
                 </p>
             </div>
             <div style="height: 20px;"></div>
