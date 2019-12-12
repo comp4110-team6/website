@@ -49,7 +49,7 @@
                         co-op/internship position in the software development world. He's particularly interested in any
                         front-end or full-stack opportunities. He also likes cooking and keyboards.<br><br>
                         <a class="text-underline color-purple1"
-                            href="mailto:bryanbean@protonmail.ch">bryanbean@protonmail.ch</a><br><br>
+                            href="mailto:bryan@bryanbean.com">bryan@bryanbean.com</a><br><br>
                         <a class="text-underline color-purple1" href="https://github.com/pataman3">github</a>,
                         <a class="text-underline color-purple1"
                             href="https://www.linkedin.com/in/bryanabean">linkedin</a>
