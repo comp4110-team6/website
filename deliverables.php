@@ -80,7 +80,8 @@
                 <p class="text text-subtitle font-robo color-purple1">Demonstration video</p>
                 <div style="height: 15px;"></div>
                 <p class="text text-body font-robo color-purple1">
-                    <a class="text-underline color-purple1" href="https://drive.google.com/file/d/1XZ-DfJi9YmeaH1JO1xaFVVJG_vYz34Vf/preview">demonstration</a>
+                    <a class="text-underline color-purple1"
+                        href="https://drive.google.com/file/d/1XZ-DfJi9YmeaH1JO1xaFVVJG_vYz34Vf/preview">demonstration</a>
                 </p>
             </div>
 

@@ -33,8 +33,9 @@
                     </div>
                 </p>
                 <p class="text text-body font-robo color-purple1">
-                    MILESTONE: Created git repository for both website and the game itself, and gave all members of the group
-                    access to said repository.</p>
+                    MILESTONE: Created git repository for both website and the game itself, and gave all members of the
+                    group access to said repository.
+                </p>
             </div>
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
@@ -66,9 +67,10 @@
                                 sharing. Meeting concluded after this </li>
                         </ul>
                     </div>
-                    <p class="text text-body font-robo color-purple1">
-                    MILESTONES: Brainstormed concepts for the game such as specific mechanics and the core gameplay loop. 
-                    Roles assigned for each member of the group.</p>
+                </p>
+                <p class="text text-body font-robo color-purple1">
+                    MILESTONES: Brainstormed concepts for the game such as specific mechanics and the core gameplay
+                    loop. Roles assigned for each member of the group.
                 </p>
             </div>
             <div style="height: 20px;"></div>
@@ -92,8 +94,9 @@
                                 to be collaboration between parties for effective resuslts. </li>
                         </ul>
                     </div>
-                    <p class="text text-body font-robo color-purple1">
-                    MILESTONES: Completed project proposal and set up GoDot environment for development.</p>
+                </p>
+                <p class="text text-body font-robo color-purple1">
+                    MILESTONES: Completed project proposal and set up GoDot environment for development.
                 </p>
             </div>
             <div style="height: 20px;"></div>
@@ -119,7 +122,8 @@
                     </div>
                 </p>
                 <p class="text text-body font-robo color-purple1">
-                    MILESTONES: Completed the Prototype UI and SRS v1.</p>
+                    MILESTONES: Completed the Prototype UI and SRS v1.
+                </p>
             </div>
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
@@ -218,7 +222,8 @@
                     </div>
                 </p>
                 <p class="text text-body font-robo color-purple1">
-                    MILESTONE: Prototype v2 complete with full implementation of all described features.</p>
+                    MILESTONE: Prototype v2 complete with full implementation of all described features.
+                </p>
             </div>
             <div style="height: 20px;"></div>
             <div style="height: 1px;width: 610px;background-color: #807589;"></div>
@@ -235,7 +240,8 @@
                     </div>
                 </p>
                 <p class="text text-body font-robo color-purple1">
-                    MILESTONES: SRS v2, demonstration video, and presentation all complete well ahead of schedule.</p>
+                    MILESTONES: SRS v2, demonstration video, and presentation all complete well ahead of schedule.
+                </p>
             </div>
 
 
